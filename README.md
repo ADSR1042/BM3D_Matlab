@@ -4,11 +4,6 @@
 
 运行此项目需要Parallel Computing Toolbox 如未安装 请将denoising文件夹中的DCT_3D.m与iDCT_3D.m的parfor修改为for
 
-参与成员
-
-- @ADSR1042
-- 周浩翔 3210100659
-- 
 
 **注：输入进降噪函数的方差为256灰度空间值 噪声估计方差可为一值化/灰度空间值**
 
